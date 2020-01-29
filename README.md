@@ -42,5 +42,5 @@ Or you lose if your number goes over the random number.
 
 ## Screenshots
 
-[homepage](assets/images/02-crystal-collector.png)
+![homepage](assets/images/02-crystal-collector.png)
 
