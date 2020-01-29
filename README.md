@@ -40,7 +40,7 @@ Or you lose if your number goes over the random number.
 
 [Crystal Collector](https://bwilson1990.github.io/unit-4-game/)
 
-<!-- ## Screenshots
+## Screenshots
 
-![homepage](assets/images/02-crystal-collector.png)-->
+[homepage](assets/images/02-crystal-collector.png)
 
